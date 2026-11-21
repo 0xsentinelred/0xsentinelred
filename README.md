@@ -1,5 +1,5 @@
 ![logo](https://github.com/0xsentinelred/thesentinelred/blob/main/The%20Sentinel%20Red%20Cybersecurity%20Banner.png)
-<h1 align="center">Hello I'm Sentinel Red 🔴</h1>
+<h1 align="center">Hello I'm Sentinel Red</h1>
 
 ### 🛡️ Junior Penetration Tester | Aspiring Offensive Security Professional from Nigeria 🇳🇬
 
