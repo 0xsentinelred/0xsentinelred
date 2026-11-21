@@ -1,5 +1,5 @@
 ![logo](https://github.com/0xsentinelred/thesentinelred/blob/main/The%20Sentinel%20Red%20Cybersecurity%20Banner.png)
-<h1 align="center">Hi 👋, I'm The Sentinelred</h1>
+<h1 align="center">Hi 👋, I'm Sentinel Red</h1>
 <h3 align="center">A passionate Junior Penetration Tester from Nigeria Aspiring Offensive Security professional focused on learning how real attackers think so I can help defend against them.</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCnb_IdIdIfeBPAJUd0uv32JmVX2iA-LaUN01xhGOtBQ&s=10">
