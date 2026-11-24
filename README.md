@@ -1,7 +1,7 @@
 ![logo](https://github.com/0xsentinelred/thesentinelred/blob/main/The%20Sentinel%20Red%20Cybersecurity%20Banner.png)
 <h1 align="center">Hello I'm Sentinel Red</h1>
 
-### 🛡️ Junior Penetration Tester | Aspiring Offensive Security Professional from Nigeria 🇳🇬
+### 🛡️  Penetration Tester | Aspiring Offensive Security Professional from Nigeria 🇳🇬
 
 I'm passionate about cybersecurity, ethical hacking, and penetration testing. I focus on understanding how real-world attackers think, identifying security vulnerabilities, and learning how to strengthen digital defenses.
 
